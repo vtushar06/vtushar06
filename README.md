@@ -1,6 +1,6 @@
 <!-- Profile Header with GIF -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Dev GIF"/>
+  <img src="https://www.pinterest.com/ideas/coding-gifs-aesthetic/896913177658/" width="300" alt="AI Dev GIF"/>
 </h3>
 
 <h1 align="center">
