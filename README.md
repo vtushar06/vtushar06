@@ -121,7 +121,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="Node.js"/>
 
   <!-- MongoDB (PNG) -->
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" alt="MongoDB"/>
+  <img src="https://icon2.cleanpng.com/20180808/cfz/621964b6e5f8bdb96642f2b7f891e963.webp" width="50" alt="MongoDB"/>
 
   <!-- Express.js (PNG) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express.js"/>
