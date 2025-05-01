@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF6AF7&center=true&vCenter=true&width=700&lines=AI+Architect+%7C+Full-Stack+Crafter+%7C+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=AI+Enthusiast+%7C+Full-Stack+Developer+%7C+Tech+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 
 ---
 
-<img src="https://makeagif.com/gif/free-motion-background-line-of-fire-1fK8WH"/>
+<img src="https://raw.githubusercontent.com/AryanVBW/AryanVBW/refs/heads/main/line.gif"/
 
 ## 🚀 Featured Projects
 
@@ -28,7 +28,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
   <tr>
     <td align="center">
       <a href="https://www.batteryfair.co.in/">
-        <img src="https://www.takomabattery.com/top-10-battery-energy-storage-exhibitions-in-the-world/" width="120" alt="BatteryFair Poster"/>
+        <img src="https://www.batteryfair.co.in/images/logo.png" width="120" alt="BatteryFair Poster"/>
         <br><b>BatteryFair Website</b>
       </a>
       <br>
