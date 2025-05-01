@@ -41,8 +41,8 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
       <sub>An AI-powered tool to assist in basic health diagnoses.</sub>
     </td>
     <td align="center">
-      <a href="<!-- Your CodeChef Contest Helper GitHub link here -->">
-        <img src="https://user-images.githubusercontent.com/placeholder/codechef-helper.png" width="120" alt="CodeChef Helper Poster"/>
+      <a href="astrogpt-tushar-vermas-projects-f01f3eda.vercel.app/">
+        <img src="https://github.com/vtushar06/AstroGPT/blob/main/Frontend/public/Icon/sun.png?raw=true" width="120" alt="CodeChef Helper Poster"/>
         <br><b>CodeChef Contest Helper</b>
       </a>
       <br>
