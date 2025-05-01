@@ -114,8 +114,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
   <!-- React (GIF) -->
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React"/>
 
-  <!-- Next.js (PNG) -->
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" alt="Next.js"/>
+  
 
   <!-- Node.js (GIF) -->
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="Node.js"/>
@@ -129,14 +128,12 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
   <!-- Python (GIF) -->
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" alt="Python"/>
 
-  <!-- TensorFlow (PNG) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="TensorFlow"/>
+
 
   <!-- Firebase (PNG) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"/>
 
-  <!-- Tailwind CSS (PNG) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="TailwindCSS"/>
+ 
 
   <!-- Git (PNG) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
