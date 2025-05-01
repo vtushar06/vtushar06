@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://github.com/AryanVBW/kali-Linux-Android/releases/download/1/removebackground.png" height="80" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tushar+Verma!;Full+Stack+Developer+%7C+AI+Explorer+%7C+Open+Source+Contributor;Building+for+the+Web+%26+the+Future+with+Code+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0074D9&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Tushar+Verma;Full+Stack+Developer+%7C+AI%2FML+Enthusiast+%7C+Open+Source+Contributor" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Tushar Verma**, a passionate B.Tech CSE (AI & ML) student at Newton School of Technology, aspiring to make an impact in the world of **AI**, **web development**, and **product building**.
+I'm **Tushar Verma**, a B.Tech CSE (AI & ML) student at Newton School of Technology, passionate about building AI-powered apps, frontend magic, and solving real-world problems with code.
 
-- 💡 Currently learning **React**, **Next.js**, and **MongoDB**
-- 🧠 Exploring **Machine Learning**, **Python Libraries**, and **Generative AI**
-- 🔨 Building [BatteryFair Website](https://batteryfair.co.in) using React
-- 🛠️ Participated in **robotics**, **open-source**, and **Hacktoberfest**
-- ✨ Believer in continuous learning, real-world projects, and collaboration
+- 🚀 Currently building: [BatteryFair Website](https://batteryfair.co.in)
+- 📚 Learning: Next.js, Node.js, MongoDB, and Deep Learning (Andrew Ng)
+- 💡 Interests: AI-based healthcare tools, automation, and web ecosystems
+- 🌱 Always exploring: Open source, GSAP, and Firebase magic
+- 🎯 Goal: To build a smarter world with scalable and meaningful technology
 
 📬 **Reach me at**: tusharmyself06@gmail.com  
 🌐 **Portfolio**: [tushar-portfolio.netlify.app](https://tushar-portfolio.netlify.app)
