@@ -20,13 +20,15 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 
 ---
 
+<img src="https://makeagif.com/gif/free-motion-background-line-of-fire-1fK8WH"/>
+
 ## 🚀 Featured Projects
 
 <table>
   <tr>
     <td align="center">
-      <a href="<!-- Your BatteryFair GitHub link here -->">
-        <img src="https://user-images.githubusercontent.com/placeholder/batteryfair-poster.png" width="120" alt="BatteryFair Poster"/>
+      <a href="https://www.batteryfair.co.in/">
+        <img src="https://www.takomabattery.com/top-10-battery-energy-storage-exhibitions-in-the-world/" width="120" alt="BatteryFair Poster"/>
         <br><b>BatteryFair Website</b>
       </a>
       <br>
@@ -43,10 +45,10 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
     <td align="center">
       <a href="astrogpt-tushar-vermas-projects-f01f3eda.vercel.app/">
         <img src="https://github.com/vtushar06/AstroGPT/blob/main/Frontend/public/Icon/sun.png?raw=true" width="120" alt="CodeChef Helper Poster"/>
-        <br><b>CodeChef Contest Helper</b>
+        <br><b>AstroGPT</b>
       </a>
       <br>
-      <sub>A web tool for competitive programmers to track contests and improve their skills.</sub>
+      <sub>Your AI companion in world of Astrology</sub>
     </td>
   </tr>
 </table>
@@ -97,9 +99,9 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 
 ---
 
-## 📝 Blog
+## 📝 Portfolio
 
-- [Medium Profile](<!-- Your Medium Profile Link Here -->)
+- [Medium Profile]("https://personal-website-chi-cyan.vercel.app/")
 
 ---
 
