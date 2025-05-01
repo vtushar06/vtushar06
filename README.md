@@ -110,39 +110,37 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 
 ---
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" alt="Coding GIF"/>
-  <!-- React -->
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React"/>
+<h2 align="center">
+  <!-- React (GIF) -->
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React"/>
 
-<!-- Next.js -->
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="Next.js"/>
+  <!-- Next.js (PNG) -->
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" alt="Next.js"/>
 
-<!-- Node.js -->
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="Node.js"/>
+  <!-- Node.js (GIF) -->
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="Node.js"/>
 
-<!-- MongoDB -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" alt="MongoDB"/>
+  <!-- MongoDB (PNG) -->
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" alt="MongoDB"/>
 
-<!-- Express -->
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="Express.js"/>
+  <!-- Express.js (PNG) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express.js"/>
 
-<!-- Python -->
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" alt="Python"/>
+  <!-- Python (GIF) -->
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" alt="Python"/>
 
-<!-- TensorFlow -->
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="TensorFlow"/>
+  <!-- TensorFlow (PNG) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="TensorFlow"/>
 
-<!-- Firebase -->
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="Firebase"/>
+  <!-- Firebase (PNG) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"/>
 
-<!-- Tailwind CSS -->
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="Tailwind CSS"/>
+  <!-- Tailwind CSS (PNG) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="TailwindCSS"/>
 
-<!-- Git -->
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="Git"/>
-</h3>
-
+  <!-- Git (PNG) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
+</h2>
 <h2 align="center">
   <b>Let’s build something amazing together!</b>
 </h2>
