@@ -7,16 +7,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=AI+Enthusiast+%7C+Full-Stack+Developer+%7C+Tech+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<h4 align="center">
   <b>🤖 | ⚡ | 🎯 | 👨‍💻 | 🧠</b>
-</p>
+</h4>
 
 ---
 
 ## 👋 About Me
 
-Hi, I’m **Tushar Verma** – a passionate Full-Stack Developer and AI enthusiast who builds tech solutions to solve real-world problems.  
-I specialize in creating scalable web apps, exploring AI-driven innovations, and constantly learning to craft impactful technology.
+<h3>Hi, I’m **Tushar Verma** – a passionate Full-Stack Developer and AI enthusiast who builds tech solutions to solve real-world problems.  
+I specialize in creating scalable web apps, exploring AI-driven innovations, and constantly learning to craft impactful technology.</h3>
 
 ---
 
@@ -29,26 +29,27 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
     <td align="center">
       <a href="https://www.batteryfair.co.in/">
         <img src="https://www.batteryfair.co.in/images/logo.png" width="120" alt="BatteryFair Poster"/>
-        <br><b>BatteryFair Website</b>
+        <br>
+        <h3>BatteryFair Website</h3>
       </a>
       <br>
-      <sub>A full-fledged exhibition website built using Next.js and Node.js.</sub>
+      <h5>A full-fledged exhibition website built using Next.js and Node.js.</h5>
     </td>
     <td align="center">
       <a href="<!-- Your AI Healthcare Assistant GitHub link here -->">
         <img src="https://user-images.githubusercontent.com/placeholder/ai-healthcare.gif" width="120" alt="AI Healthcare GIF"/>
-        <br><b>AI Healthcare Assistant</b>
+        <br><h3>AI Healthcare Assistant</h3>
       </a>
       <br>
-      <sub>An AI-powered tool to assist in basic health diagnoses.</sub>
+      <h5>An AI-powered tool to assist in basic health diagnoses.</h5>
     </td>
     <td align="center">
       <a href="astrogpt-tushar-vermas-projects-f01f3eda.vercel.app/">
         <img src="https://github.com/vtushar06/AstroGPT/blob/main/Frontend/public/Icon/sun.png?raw=true" width="120" alt="CodeChef Helper Poster"/>
-        <br><b>AstroGPT</b>
+        <br><h3>AstroGPT</h3>
       </a>
       <br>
-      <sub>Your AI companion in world of Astrology</sub>
+      <h5>Your AI companion in world of Astrology</h5>
     </td>
   </tr>
 </table>
@@ -72,7 +73,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 
 ---
 
-## 📊 GitHub Stats & Achievements
+# 📊 GitHub Stats & Achievements
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tushar-verma&style=flat-square&color=brightgreen" alt="Visitor Counter"/>
@@ -88,7 +89,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 
 ---
 
-## 🏷️ Tags & Badges
+# 🏷️ Tags & Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Enthusiast-%F0%9F%A4%96-blueviolet?style=flat-square"/>
