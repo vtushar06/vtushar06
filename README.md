@@ -21,8 +21,6 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 
 ---
 
-
-
 # 🚀 Featured Projects
 
 <table>
@@ -113,7 +111,36 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 ---
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" alt="Coding GIF"/>
+  <!-- React -->
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React"/>
+
+<!-- Next.js -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="Next.js"/>
+
+<!-- Node.js -->
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="Node.js"/>
+
+<!-- MongoDB -->
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" alt="MongoDB"/>
+
+<!-- Express -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="Express.js"/>
+
+<!-- Python -->
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" alt="Python"/>
+
+<!-- TensorFlow -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="TensorFlow"/>
+
+<!-- Firebase -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="Firebase"/>
+
+<!-- Tailwind CSS -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="Tailwind CSS"/>
+
+<!-- Git -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="Git"/>
 </h3>
 
 <h2 align="center">
