@@ -74,7 +74,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vtushar06&show_icons=true&locale=en&layout=compact" alt="vtushar06" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtushar06&show_icons=true&locale=en" alt="vtushar06" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vtushar06&" alt="vtushar06" /></p>
-[![An image of @vtushar06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vtushar06)](https://holopin.io/@vtushar06)
+[![Holopin board](https://holopin.me/vtushar06.svg)](https://holopin.io/@vtushar06)
 
 # 🌐 Connect With Me
 
