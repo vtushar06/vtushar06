@@ -71,10 +71,18 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 </h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vtushar06&show_icons=true&locale=en&layout=compact" alt="vtushar06" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtushar06&show_icons=true&locale=en" alt="vtushar06" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vtushar06&" alt="vtushar06" /></p>
-[![Holopin board](https://holopin.me/vtushar06.svg)](https://holopin.io/@vtushar06)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vtushar06&show_icons=true&locale=en" alt="vtushar06's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vtushar06&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vtushar06" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@vtushar06" target="_blank">
+    <img src="https://holopin.me/vtushar06" alt="Holopin badge board" />
+  </a>
+</p>
 
 # 🌐 Connect With Me
 
