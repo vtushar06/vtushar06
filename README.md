@@ -70,34 +70,11 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </h3>
 
----
 
-# 📊 GitHub Stats & Achievements
-
-<h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=tushar-verma&style=flat-square&color=brightgreen" alt="Visitor Counter"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar-verma&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tushar-verma&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tushar-verma&theme=react-dark" alt="Contribution Graph"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=tushar-verma&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</h3>
-
----
-
-# 🏷️ Tags & Badges
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-%F0%9F%A4%96-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-%F0%9F%92%BB-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Problem%20Solver-%F0%9F%92%A1-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Lifelong%20Learner-%F0%9F%A7%A0-lightgrey?style=flat-square"/>
-</h3>
-
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vtushar06&show_icons=true&locale=en&layout=compact" alt="vtushar06" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtushar06&show_icons=true&locale=en" alt="vtushar06" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vtushar06&" alt="vtushar06" /></p>
+[![An image of @vtushar06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vtushar06)](https://holopin.io/@vtushar06)
 
 # 🌐 Connect With Me
 
