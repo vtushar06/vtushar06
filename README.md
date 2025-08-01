@@ -134,7 +134,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 (This file is regularly updated as I contribute to more projects!)
 | Organization Name | Repository | Type | Link |
 |--------------|-------------|--------------|------------|
-| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR (Under Review) | [#1743](https://github.com/json-schema-org/website/pull/1743) |
+| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR (Merged) | [#1743](https://github.com/json-schema-org/website/pull/1743) |
 | [**Learning Equality**](https://github.com/learningequality) | [Studio](https://github.com/learningequality/studio) | PR(Merged) | [#5129](https://github.com/learningequality/studio/pull/5129) |
 | [**Neuroinformatics-unit**](https://github.com/neuroinformatics-unit) | [Movement](https://github.com/neuroinformatics-unit/movement) | PR(Merged) | [#618](https://github.com/neuroinformatics-unit/movement/pull/618) |
 | [**Neuroinformatics-unit**](https://github.com/neuroinformatics-unit) | [Movement](https://github.com/neuroinformatics-unit/movement) | PR(Under Review) | [#623](https://github.com/neuroinformatics-unit/movement/pull/623) |
