@@ -135,7 +135,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 | Organization Name | Repository | Type | Link |
 |--------------|-------------|--------------|------------|
 | [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR (Merged🎉) | [#1743](https://github.com/json-schema-org/website/pull/1743) |
-| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR (Approved🎉) | [#1811](https://github.com/json-schema-org/website/pull/1811) |
+| [**JSON Schema**](https://github.com/json-schema-org) | [Website](https://github.com/json-schema-org/website) | PR (Approved) | [#1811](https://github.com/json-schema-org/website/pull/1811) |
 | [**Learning Equality**](https://github.com/learningequality) | [Studio](https://github.com/learningequality/studio) | PR(Merged🎉) | [#5129](https://github.com/learningequality/studio/pull/5129) |
 | [**Learning Equality**](https://github.com/learningequality) | [Studio](https://github.com/learningequality/studio) | PR(Merged🎉) | [#5242](https://github.com/learningequality/studio/pull/5242) |
 | [**Learning Equality**](https://github.com/learningequality) | [kolibri-design-system](https://github.com/learningequality/kolibri-design-system) | PR(Merged🎉) | [#1096](https://github.com/learningequality/kolibri-design-system/pull/1096) |
