@@ -189,12 +189,11 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vtushar06&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/vtushar06/github-readme-activity-graph)
 
-<img src="https://raw.githubusercontent.com/vtushar06/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 
 # 🚀 My Open Source Contributions
-(This file is regularly updated as I contribute to more projects!)
-
+<p align="center">This file is regularly updated as I contribute to more projects!</p>
+<div align="center">
 <p align="center">
   <table>
     <tr>
@@ -268,4 +267,9 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
     </tr>
   </table>
 </p>
+</div>
+
+<h1 align="center" >
+<img src="https://github.com/vtushar06/vtushar06/blob/output/github-snake.svg" alt="e" style="max-width: 100%;">
+</h1>
 
