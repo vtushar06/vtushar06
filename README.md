@@ -220,8 +220,13 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
     </tr>
     <tr>
       <td><a href="https://github.com/json-schema-org/conference">Conference</a></td>
-      <td>PR (Under Review)</td>
+      <td>PR (Merged🎉)</td>
       <td><a href="https://github.com/json-schema-org/conference/pull/72">#72</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/json-schema-org/tour">Tour</a></td>
+      <td>PR (Under Review)</td>
+      <td><a href="https://github.com/json-schema-org/tour/pull/182">#182</a></td>
     </tr>
     <tr>
       <td rowspan="5"><a href="https://github.com/learningequality"><b>Learning Equality</b></a></td>
@@ -248,6 +253,11 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
       <td><a href="https://github.com/learningequality/kolibri-design-system">kolibri-design-system</a></td>
       <td>PR (Merged🎉)</td>
       <td><a href="https://github.com/learningequality/kolibri-design-system/pull/1105">#1105</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/learningequality/kolibri-design-system">kolibri-design-system</a></td>
+      <td>PR (Under Review)</td>
+      <td><a href="https://github.com/learningequality/kolibri-design-system/issues/1055">#1055</a></td>
     </tr>
     <tr>
       <td rowspan="3"><a href="https://github.com/neuroinformatics-unit"><b>Neuroinformatics-unit</b></a></td>
