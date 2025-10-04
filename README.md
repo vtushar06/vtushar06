@@ -27,7 +27,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
   <tr>
     <td align="center">
       <a href="https://www.batteryfair.co.in/">
-        <img src="https://www.batteryfair.co.in/images/logo.png" width="120" alt="BatteryFair Poster"/>
+        <img src="https://www.batteryfair.co.in/images/logo.png" width="150" alt="BatteryFair Poster"/>
         <br>
         <h3>BatteryFair Website</h3>
       </a>
@@ -35,12 +35,12 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
       <h5>A full-fledged exhibition website built using Next.js and Node.js.</h5>
     </td>
     <td align="center">
-      <a href="<!-- Your AI Healthcare Assistant GitHub link here -->">
-        <img src="https://user-images.githubusercontent.com/placeholder/ai-healthcare.gif" width="120" alt="AI Healthcare GIF"/>
-        <br><h3>AI Healthcare Assistant</h3>
+      <a href="https://github.com/vtushar06/NeuraCoin">
+        <img src="https://github.com/vtushar06/NeuraCoin/blob/main/assets/images/logo-icon-1.png?raw=true" width="140" alt="NeuraCoin"/>
+        <br><h3>NeuraCoin</h3>
       </a>
       <br>
-      <h5>An AI-powered tool to assist in basic health diagnoses.</h5>
+      <h5>Fintech Crypto Virtual Trading App</h5>
     </td>
     <td align="center">
       <a href="astrogpt-tushar-vermas-projects-f01f3eda.vercel.app/">
