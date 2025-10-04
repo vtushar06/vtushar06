@@ -34,7 +34,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
   <h5>Doctor Appointment App built with Next.js & SQL</h5>
 </td>
     <td align="center">
-      <a href="https://github.com/vtushar06/NeuraCoin">
+      <a href="https://neura-coin-ten.vercel.app/welcome">
         <img src="https://github.com/vtushar06/NeuraCoin/blob/main/assets/images/logo-icon-1.png?raw=true" width="160" alt="NeuraCoin"/>
         <br><h3>NeuraCoin</h3>
       </a>
