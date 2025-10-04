@@ -28,26 +28,26 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
     <td align="center">
   <a href="https://telesana-appoinment-production.up.railway.app/">
     <img src="https://github.com/vtushar06/Telesana-Appoinment/blob/main/public/image.png?raw=true" width="220" alt="Telesana Appointment Poster"/>
-    <br><h3>Telesana</h3>
+    <br><h2>Telesana</h2>
   </a>
   <br>
-  <h5>Doctor Appointment App built with Next.js & SQL</h5>
+  <h4>Doctor Appointment App built with Next.js & SQL</h4>
 </td>
     <td align="center">
       <a href="https://neura-coin-ten.vercel.app/welcome">
         <img src="https://github.com/vtushar06/NeuraCoin/blob/main/assets/images/logo-icon-1.png?raw=true" width="160" alt="NeuraCoin"/>
-        <br><h3>NeuraCoin</h3>
+        <br><h2>NeuraCoin</h2>
       </a>
       <br>
-      <h5>Fintech Crypto Virtual Trading App</h5>
+      <h4>Fintech Crypto Virtual Trading App</h4>
     </td>
     <td align="center">
       <a href="astrogpt-tushar-vermas-projects-f01f3eda.vercel.app/">
         <img src="https://github.com/vtushar06/AstroGPT/blob/main/Frontend/public/Icon/sun.png?raw=true" width="160" alt="CodeChef Helper Poster"/>
-        <br><h3>AstroGPT</h3>
+        <br><h2>AstroGPT</h2>
       </a>
       <br>
-      <h5>Your AI companion in world of Astrology</h5>
+      <h4>Your AI companion in world of Astrology</h4>
     </td>
   </tr>
 </table>
