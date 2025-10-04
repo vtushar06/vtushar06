@@ -27,7 +27,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
   <tr>
     <td align="center">
   <a href="https://telesana-appoinment-production.up.railway.app/">
-    <img src="https://github.com/vtushar06/Telesana-Appoinment/blob/main/public/image.png?raw=true" width="120" alt="Telesana Appointment Poster"/>
+    <img src="https://github.com/vtushar06/Telesana-Appoinment/blob/main/public/image.png?raw=true" width="220" alt="Telesana Appointment Poster"/>
     <br><h3>Telesana</h3>
   </a>
   <br>
@@ -35,7 +35,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 </td>
     <td align="center">
       <a href="https://github.com/vtushar06/NeuraCoin">
-        <img src="https://github.com/vtushar06/NeuraCoin/blob/main/assets/images/logo-icon-1.png?raw=true" width="140" alt="NeuraCoin"/>
+        <img src="https://github.com/vtushar06/NeuraCoin/blob/main/assets/images/logo-icon-1.png?raw=true" width="160" alt="NeuraCoin"/>
         <br><h3>NeuraCoin</h3>
       </a>
       <br>
@@ -43,7 +43,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
     </td>
     <td align="center">
       <a href="astrogpt-tushar-vermas-projects-f01f3eda.vercel.app/">
-        <img src="https://github.com/vtushar06/AstroGPT/blob/main/Frontend/public/Icon/sun.png?raw=true" width="120" alt="CodeChef Helper Poster"/>
+        <img src="https://github.com/vtushar06/AstroGPT/blob/main/Frontend/public/Icon/sun.png?raw=true" width="160" alt="CodeChef Helper Poster"/>
         <br><h3>AstroGPT</h3>
       </a>
       <br>
