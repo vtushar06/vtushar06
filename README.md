@@ -26,14 +26,13 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.batteryfair.co.in/">
-        <img src="https://www.batteryfair.co.in/images/logo.png" width="150" alt="BatteryFair Poster"/>
-        <br>
-        <h3>BatteryFair Website</h3>
-      </a>
-      <br>
-      <h5>A full-fledged exhibition website built using Next.js and Node.js.</h5>
-    </td>
+  <a href="https://telesana-appoinment-production.up.railway.app/">
+    <img src="https://github.com/vtushar06/Telesana-Appoinment/blob/main/public/image.png?raw=true" width="120" alt="Telesana Appointment Poster"/>
+    <br><h3>Telesana</h3>
+  </a>
+  <br>
+  <h5>Doctor Appointment App built with Next.js & SQL</h5>
+</td>
     <td align="center">
       <a href="https://github.com/vtushar06/NeuraCoin">
         <img src="https://github.com/vtushar06/NeuraCoin/blob/main/assets/images/logo-icon-1.png?raw=true" width="140" alt="NeuraCoin"/>
