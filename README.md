@@ -159,7 +159,7 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 
 <p align="center">
   <a href="https://github.com/vtushar06/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=vtushar06&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="tushar stats" /></picture></a>
-  <a href="https://github.com/vtushar06/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=vtushar06&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+  <!-- <a href="https://github.com/vtushar06/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=vtushar06&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vtushar06" alt="GitHub Streak" />
 </p>
 
