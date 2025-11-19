@@ -156,12 +156,21 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
   [![trophy](https://github-profile-trophy.vercel.app/?username=vtushar06)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/vtushar06/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=vtushar06&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="tushar stats" /></picture></a>
   <a href="https://github.com/vtushar06/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=vtushar06&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vtushar06"  alt="GitHub Streak"/>
-</p>
+</p> -->
 
+<p align="center">
+
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=vtushar06&show_icons=true&theme=gotham&hide_border=true" />
+
+<!-- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtushar06&layout=compact&theme=gotham&hide_border=true" /> -->
+
+<img height="200" src="https://streak-stats.demolab.com?user=vtushar06&theme=gotham&hide_border=true" />
+
+</p>
 
 
 <p align="center">
