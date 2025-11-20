@@ -198,7 +198,28 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vtushar06&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/vtushar06/github-readme-activity-graph)
 
 
-</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vtushar06&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  
+  
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30" />
+  <h3>✨ Thanks for visiting my profile! ✨</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30" />
+  
+  <br>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="24" />
+  <strong>⭐ Value Your Time and Don't Foucs on others, Crack it And Watch it. </strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="24" />
+  
 </div>
 
 <h1 align="center" >
