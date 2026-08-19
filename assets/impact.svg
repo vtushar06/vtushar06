@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" fill="none" role="img" aria-label="Merged pull requests by upstream organisation">
+  <defs>
+    <linearGradient id="ibg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#11141b"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F59E0B"/><stop offset="60%" stop-color="#FBBC04"/><stop offset="100%" stop-color="#FFE082"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fff" stop-opacity=".5"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="iclip"><rect width="1000" height="430" rx="16"/></clipPath>
+
+    <!-- one reveal window per bar; each window slides in from the left -->
+    <clipPath id="w1"><rect class="rev r1" x="290" y="110" width="640" height="24"/></clipPath>
+    <clipPath id="w2"><rect class="rev r2" x="290" y="156" width="131" height="24"/></clipPath>
+    <clipPath id="w3"><rect class="rev r3" x="290" y="202" width="131" height="24"/></clipPath>
+    <clipPath id="w4"><rect class="rev r4" x="290" y="248" width="115" height="24"/></clipPath>
+    <clipPath id="w5"><rect class="rev r5" x="290" y="294" width="115" height="24"/></clipPath>
+    <clipPath id="w6"><rect class="rev r6" x="290" y="340" width="49"  height="24"/></clipPath>
+    <clipPath id="glideWin"><rect x="290" y="113" width="640" height="20" rx="5"/></clipPath>
+
+    <style>
+      @keyframes rev1 { from{transform:translateX(-640px)} to{transform:translateX(0)} }
+      @keyframes rev2 { from{transform:translateX(-131px)} to{transform:translateX(0)} }
+      @keyframes rev4 { from{transform:translateX(-115px)} to{transform:translateX(0)} }
+      @keyframes rev6 { from{transform:translateX(-49px)}  to{transform:translateX(0)} }
+      @keyframes fadeUp { from{opacity:0;transform:translateY(6px)} to{opacity:1;transform:translateY(0)} }
+      @keyframes glide  { 0%{transform:translateX(-140px);opacity:0} 15%{opacity:1} 85%{opacity:1} 100%{transform:translateX(660px);opacity:0} }
+      @keyframes tick   { 0%,100%{opacity:.30} 50%{opacity:.85} }
+
+      .rev { animation-timing-function: cubic-bezier(.16,1,.3,1); animation-fill-mode: both; animation-duration: 1.5s; }
+      .r1{animation-name:rev1;animation-delay:.15s}
+      .r2{animation-name:rev2;animation-delay:.30s}
+      .r3{animation-name:rev2;animation-delay:.45s}
+      .r4{animation-name:rev4;animation-delay:.60s}
+      .r5{animation-name:rev4;animation-delay:.75s}
+      .r6{animation-name:rev6;animation-delay:.90s}
+
+      .num { opacity:0; animation: fadeUp .6s ease-out forwards; }
+      .n1{animation-delay:1.0s} .n2{animation-delay:1.15s} .n3{animation-delay:1.3s}
+      .n4{animation-delay:1.45s} .n5{animation-delay:1.6s} .n6{animation-delay:1.75s}
+
+      .glide { animation: glide 3.6s ease-in-out infinite 1.8s; }
+      .grid  { animation: tick 3.5s ease-in-out infinite; }
+
+      @media (prefers-reduced-motion: reduce) {
+        .rev,.num,.glide,.grid { animation: none; }
+        .num { opacity: 1; }
+        .glide { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#iclip)">
+    <rect width="1000" height="430" fill="url(#ibg)"/>
+
+    <g font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace">
+      <text x="34" y="46" font-size="19" font-weight="700" fill="#FFD54F">MERGED UPSTREAM &#8212; BY ORGANISATION</text>
+      <text x="34" y="68" font-size="12" fill="#8b949e" letter-spacing=".6">
+        192 merged &#183; 285 authored &#183; counted from the GitHub search API
+      </text>
+    </g>
+
+    <g class="grid" stroke="#FBBC04" stroke-opacity=".12" stroke-width="1">
+      <line x1="465" y1="92" x2="465" y2="382"/>
+      <line x1="640" y1="92" x2="640" y2="382"/>
+      <line x1="815" y1="92" x2="815" y2="382"/>
+    </g>
+    <line x1="290" y1="92" x2="290" y2="382" stroke="#FBBC04" stroke-opacity=".3"/>
+
+    <g font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">
+
+      <!-- tracks -->
+      <g fill="#FBBC04" fill-opacity=".06">
+        <rect x="290" y="113" width="660" height="20" rx="5"/>
+        <rect x="290" y="159" width="660" height="20" rx="5"/>
+        <rect x="290" y="205" width="660" height="20" rx="5"/>
+        <rect x="290" y="251" width="660" height="20" rx="5"/>
+        <rect x="290" y="297" width="660" height="20" rx="5"/>
+        <rect x="290" y="343" width="660" height="20" rx="5"/>
+      </g>
+
+      <!-- labels -->
+      <g text-anchor="end" fill="#c9d1d9">
+        <text x="272" y="127">JSON Schema</text>
+        <text x="272" y="173">sourcemeta/core</text>
+        <text x="272" y="219">Learning Equality</text>
+        <text x="272" y="265">containers (Podman)</text>
+        <text x="272" y="311">OpenCost (CNCF)</text>
+        <text x="272" y="357">Headlamp (K8s SIGs)</text>
+      </g>
+
+      <!-- bars, revealed left-to-right through their clip windows -->
+      <g clip-path="url(#w1)"><rect x="290" y="113" width="640" height="20" rx="5" fill="url(#bar)"/></g>
+      <g clip-path="url(#w2)"><rect x="290" y="159" width="131" height="20" rx="5" fill="url(#bar)"/></g>
+      <g clip-path="url(#w3)"><rect x="290" y="205" width="131" height="20" rx="5" fill="url(#bar)"/></g>
+      <g clip-path="url(#w4)"><rect x="290" y="251" width="115" height="20" rx="5" fill="url(#bar)"/></g>
+      <g clip-path="url(#w5)"><rect x="290" y="297" width="115" height="20" rx="5" fill="url(#bar)"/></g>
+      <g clip-path="url(#w6)"><rect x="290" y="343" width="49"  height="20" rx="5" fill="url(#bar)"/></g>
+
+      <!-- values -->
+      <text class="num n1" x="916" y="128" text-anchor="end" font-weight="700" fill="#0d1117">78</text>
+      <text class="num n2" x="437" y="174" font-weight="700" fill="#FFD54F">16</text>
+      <text class="num n3" x="437" y="220" font-weight="700" fill="#FFD54F">16</text>
+      <text class="num n4" x="421" y="266" font-weight="700" fill="#FFD54F">14</text>
+      <text class="num n5" x="421" y="312" font-weight="700" fill="#FFD54F">14</text>
+      <text class="num n6" x="355" y="358" font-weight="700" fill="#FFD54F">6</text>
+
+      <!-- travelling highlight on the leading bar -->
+      <g clip-path="url(#glideWin)">
+        <rect class="glide" x="290" y="113" width="120" height="20" fill="url(#shine)"/>
+      </g>
+    </g>
+
+    <text x="34" y="410" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace"
+          font-size="11" fill="#6e7681">
+      The rest spans neuroinformatics-unit/movement, coreos/go-systemd and other upstreams.
+    </text>
+
+    <rect x=".5" y=".5" width="999" height="429" rx="16" fill="none" stroke="#FBBC04" stroke-opacity=".22"/>
+  </g>
+</svg>

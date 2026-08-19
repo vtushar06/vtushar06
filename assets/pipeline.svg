@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" fill="none" role="img" aria-label="ci-flake-triage pipeline: scan, extract, classify, match, report">
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#11141b"/>
+    </linearGradient>
+    <linearGradient id="pgold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFD54F"/><stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+    <radialGradient id="pglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FBBC04" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#FBBC04" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="pclip"><rect width="1000" height="320" rx="16"/></clipPath>
+
+    <style>
+      @keyframes dash    { to{stroke-dashoffset:-28} }
+      @keyframes lift    { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-5px)} }
+      @keyframes hi      { 0%,100%{stroke-opacity:.30;fill-opacity:.05} 50%{stroke-opacity:.9;fill-opacity:.14} }
+      @keyframes pop     { 0%{opacity:0;transform:scale(.9)} 100%{opacity:1;transform:scale(1)} }
+      @keyframes flick   { 0%,100%{opacity:.25} 50%{opacity:1} }
+
+      .wire   { stroke-dasharray: 6 8; animation: dash 1.1s linear infinite; }
+      .stage  { fill-opacity:.06; stroke-opacity:.35; animation: hi 5s ease-in-out infinite both; }
+      .s1{animation-delay:0s}.s2{animation-delay:1s}.s3{animation-delay:2s}.s4{animation-delay:3s}.s5{animation-delay:4s}
+      .pod    { animation: lift 5.5s ease-in-out infinite; transform-origin: 96px 160px; }
+      .chip   { opacity:0; animation: pop .5s ease-out both; }
+      .c1{animation-delay:.4s}.c2{animation-delay:.6s}.c3{animation-delay:.8s}.c4{animation-delay:1s}
+      .led    { animation: flick 1.8s ease-in-out infinite; }
+      .l2{animation-delay:.3s}.l3{animation-delay:.6s}
+
+
+      @media (prefers-reduced-motion: reduce) {
+        .wire,.stage,.pod,.chip,.led { animation: none; }
+        .chip { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#pclip)">
+    <rect width="1000" height="320" fill="url(#pbg)"/>
+    <ellipse cx="500" cy="160" rx="480" ry="150" fill="url(#pglow)"/>
+
+    <g font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace">
+      <text x="34" y="42" font-size="18" font-weight="700" fill="#FFD54F">ci-flake-triage &#8212; deterministic flake forensics</text>
+      <text x="34" y="63" font-size="11.5" fill="#8b949e">
+        rerun history in &#8594; confirmed flakes out &#183; zero CI changes &#183; read-only GitHub access
+      </text>
+    </g>
+
+    <!-- source pod -->
+    <g class="pod">
+      <rect x="34" y="112" width="124" height="96" rx="14" fill="#FBBC04" fill-opacity=".07"
+            stroke="url(#pgold)" stroke-opacity=".55" stroke-width="1.4"/>
+      <g fill="#FBBC04">
+        <rect class="chip c1" x="48"  y="128" width="42" height="18" rx="4" fill-opacity=".55"/>
+        <rect class="chip c2" x="98"  y="128" width="46" height="18" rx="4" fill-opacity=".35"/>
+        <rect class="chip c3" x="48"  y="154" width="46" height="18" rx="4" fill-opacity=".35"/>
+        <rect class="chip c4" x="102" y="154" width="42" height="18" rx="4" fill-opacity=".55"/>
+      </g>
+      <g>
+        <circle class="led"    cx="52" cy="192" r="3.4" fill="#FFD54F"/>
+        <circle class="led l2" cx="64" cy="192" r="3.4" fill="#FBBC04"/>
+        <circle class="led l3" cx="76" cy="192" r="3.4" fill="#F59E0B"/>
+      </g>
+      <text x="96" y="230" text-anchor="middle" font-size="11" letter-spacing="1"
+            font-family="'JetBrains Mono',ui-monospace,monospace" fill="#8b949e">WORKFLOW RUNS</text>
+    </g>
+
+    <!-- wire -->
+    <line class="wire" x1="170" y1="160" x2="838" y2="160" stroke="#FBBC04" stroke-opacity=".45" stroke-width="1.6"/>
+
+    <!-- travelling packets -->
+    <g>
+      <circle cx="196" cy="160" r="4.5" fill="#FFE082">
+        <animateMotion path="M 0 0 H 642" dur="3.4s" begin="0s"    repeatCount="indefinite"/>
+      </circle>
+      <circle cx="196" cy="160" r="3.6" fill="#FBBC04">
+        <animateMotion path="M 0 0 H 642" dur="3.4s" begin="0.85s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="196" cy="160" r="4.2" fill="#FFD54F">
+        <animateMotion path="M 0 0 H 642" dur="3.4s" begin="1.7s"  repeatCount="indefinite"/>
+      </circle>
+      <circle cx="196" cy="160" r="3.2" fill="#F59E0B">
+        <animateMotion path="M 0 0 H 642" dur="3.4s" begin="2.55s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- stages -->
+    <g font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">
+      <g transform="translate(196,124)">
+        <rect class="stage s1" width="118" height="72" rx="11" fill="#FBBC04" fill-opacity=".06" stroke="#FBBC04" stroke-opacity=".35" stroke-width="1.3"/>
+        <text x="59" y="30" text-anchor="middle" font-weight="700" fill="#FFD54F">SCAN</text>
+        <text x="59" y="50" text-anchor="middle" font-size="10" fill="#8b949e">attempt diffs</text>
+      </g>
+      <g transform="translate(338,124)">
+        <rect class="stage s2" width="118" height="72" rx="11" fill="#FBBC04" fill-opacity=".06" stroke="#FBBC04" stroke-opacity=".35" stroke-width="1.3"/>
+        <text x="59" y="30" text-anchor="middle" font-weight="700" fill="#FFD54F">EXTRACT</text>
+        <text x="59" y="50" text-anchor="middle" font-size="10" fill="#8b949e">framework markers</text>
+      </g>
+      <g transform="translate(480,124)">
+        <rect class="stage s3" width="118" height="72" rx="11" fill="#FBBC04" fill-opacity=".06" stroke="#FBBC04" stroke-opacity=".35" stroke-width="1.3"/>
+        <text x="59" y="30" text-anchor="middle" font-weight="700" fill="#FFD54F">CLASSIFY</text>
+        <text x="59" y="50" text-anchor="middle" font-size="10" fill="#8b949e">test / infra / designed</text>
+      </g>
+      <g transform="translate(622,124)">
+        <rect class="stage s4" width="118" height="72" rx="11" fill="#FBBC04" fill-opacity=".06" stroke="#FBBC04" stroke-opacity=".35" stroke-width="1.3"/>
+        <text x="59" y="30" text-anchor="middle" font-weight="700" fill="#FFD54F">MATCH</text>
+        <text x="59" y="50" text-anchor="middle" font-size="10" fill="#8b949e">candidate issues</text>
+      </g>
+      <g transform="translate(764,124)">
+        <rect class="stage s5" width="118" height="72" rx="11" fill="#FBBC04" fill-opacity=".06" stroke="#FBBC04" stroke-opacity=".35" stroke-width="1.3"/>
+        <text x="59" y="30" text-anchor="middle" font-weight="700" fill="#FFD54F">REPORT</text>
+        <text x="59" y="50" text-anchor="middle" font-size="10" fill="#8b949e">weekly digest</text>
+      </g>
+    </g>
+
+    <g font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
+       font-size="11" fill="#6e7681">
+      <text x="34" y="286">
+        A job that fails once and passes on retry with unchanged code is a flake by construction &#8212; no heuristics, no model in the hot path.
+      </text>
+    </g>
+
+    <rect x=".5" y=".5" width="999" height="319" rx="16" fill="none" stroke="#FBBC04" stroke-opacity=".22"/>
+  </g>
+</svg>

@@ -1,4 +1,5 @@
-name: GitHub Snake Game
+name: Generate contribution snake
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -6,25 +7,32 @@ on:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-      - name: Generate GitHub Contributions Snake Animations
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Render the snake in GSoC gold
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Light and dark variants are consumed by the <picture> block in README.md.
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg?color_snake=#F59E0B&color_dots=#fff8e1,#ffe082,#ffc107,#fbbc04,#f57f17
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FBBC04&color_dots=#161b22,#4d3d0f,#8a6d0b,#c99a06,#FFD54F
+            dist/github-snake.gif?color_snake=#FBBC04&color_dots=#161b22,#4d3d0f,#8a6d0b,#c99a06,#FFD54F
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
+
+      - name: Publish to the output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
