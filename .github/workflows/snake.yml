@@ -19,15 +19,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Render the snake in GSoC gold
+      - name: Render the contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           # Light and dark variants are consumed by the <picture> block in README.md.
           outputs: |
-            dist/github-snake.svg?color_snake=#F59E0B&color_dots=#fff8e1,#ffe082,#ffc107,#fbbc04,#f57f17
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FBBC04&color_dots=#161b22,#4d3d0f,#8a6d0b,#c99a06,#FFD54F
-            dist/github-snake.gif?color_snake=#FBBC04&color_dots=#161b22,#4d3d0f,#8a6d0b,#c99a06,#FFD54F
+            dist/github-snake.svg?color_snake=#7c3aed&color_dots=#f3f0ff,#d8ccfb,#b79df7,#8b5cf6,#6d28d9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#a78bfa&color_dots=#161b22,#2e1065,#4c1d95,#6d28d9,#a78bfa
+            dist/github-snake.gif?color_snake=#a78bfa&color_dots=#161b22,#2e1065,#4c1d95,#6d28d9,#a78bfa
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
