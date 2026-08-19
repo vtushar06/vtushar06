@@ -3,7 +3,27 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FBBC04&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Google+Summer+of+Code+'26+%40+JSON+Schema;%F0%9F%90%B3+Podman+%7C+Skopeo+%7C+Buildah+Contributor;%E2%9A%A1+192+Merged+PRs+Across+10%2B+Upstreams;%F0%9F%94%A7+CI+Reliability+%26+Flake+Forensics+Engineer;%F0%9F%92%BC+CTO+%40+Shivam-Info;%F0%9F%A4%96+Software+Engineer+%40+Mugafi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=0d1117&background=FBBC04&center=true&vCenter=true&width=1000&height=64&lines=%F0%9F%9A%80+Google+Summer+of+Code+'26+%40+JSON+Schema;%F0%9F%90%B3+Podman+%7C+Skopeo+%7C+Buildah+Contributor;%E2%9A%A1+192+Merged+PRs+Across+10%2B+Upstreams;%F0%9F%94%A7+CI+Reliability+%26+Flake+Forensics+Engineer;%F0%9F%92%BC+CTO+%40+Shivam-Info;%F0%9F%A4%96+Software+Engineer+%40+Mugafi" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/gsoc-sun.svg" height="38" alt="Google Summer of Code" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/podman-logo.png" height="30" alt="Podman" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/jsonschema-logo-white.svg" />
+    <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/jsonschema-logo.svg" height="34" alt="JSON Schema" />
+  </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/opencost-logo.svg" height="44" alt="OpenCost" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/headlamp-logo-light.svg" />
+    <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/headlamp-logo.svg" height="32" alt="Headlamp" />
+  </picture>
 </div>
 
 <br>
