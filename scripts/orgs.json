@@ -9,7 +9,7 @@
       "link": "https://github.com/json-schema-org",
       "logo": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"{RAW}/jsonschema-logo-white.svg\" /><img src=\"{RAW}/jsonschema-logo.svg\" width=\"130\" alt=\"JSON Schema\" /></picture>",
       "sub": "<img src=\"{RAW}/gsoc-sun.svg\" width=\"24\" align=\"center\" alt=\"Google Summer of Code\" />&nbsp;<strong>GSoC '26</strong>",
-      "work": "<strong>Format-assertion coverage</strong> for <code>uri</code>, <code>iri</code>, <code>uri-template</code> and <code>time</code> — the edge cases every validator gets wrong. Plus RFC conformance across the org."
+      "work": "<strong>Format-assertion coverage</strong> for <code>uri</code>, <code>iri</code>, <code>uri-template</code> and <code>time</code>: the edge cases every validator gets wrong. Plus RFC conformance across the org."
     },
     {
       "key": "containers",
@@ -25,8 +25,8 @@
       "name": "sourcemeta",
       "query": "org:sourcemeta",
       "link": "https://github.com/sourcemeta",
-      "logo": "<strong>sourcemeta</strong>",
-      "sub": "<sub>core · registry</sub>",
+      "logo": "<img src=\"{RAW}/sourcemeta-logo.png\" width=\"58\" alt=\"Sourcemeta\" />",
+      "sub": "<strong>sourcemeta</strong><br><sub>core · blaze · registry</sub>",
       "work": "C++ URI and RFC 3986 production coverage across the organisation."
     },
     {
@@ -36,7 +36,7 @@
       "link": "https://github.com/learningequality",
       "logo": "<img src=\"{RAW}/learningequality-logo.png\" width=\"64\" alt=\"Learning Equality\" />",
       "sub": "<strong>Learning Equality</strong><br><sub>Studio · Kolibri Design System</sub>",
-      "work": "Kolibri Studio and the Kolibri Design System — offline-first tooling for universal education."
+      "work": "Kolibri Studio and the Kolibri Design System: offline-first tooling for universal education."
     },
     {
       "key": "opencost",

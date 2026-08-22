@@ -17,20 +17,9 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/gsoc-sun.svg" height="38" alt="Google Summer of Code" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/podman-logo.png" height="30" alt="Podman" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/jsonschema-logo-white.svg" />
-    <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/jsonschema-logo.svg" height="34" alt="JSON Schema" />
-  </picture>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/opencost-logo.svg" height="44" alt="OpenCost" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/headlamp-logo-light.svg" />
-    <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/headlamp-logo.svg" height="32" alt="Headlamp" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/logo-marquee-dark.svg" />
+    <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/logo-marquee-light.svg" width="100%" alt="Google Summer of Code, JSON Schema, Podman, Sourcemeta, Learning Equality, OpenCost, Headlamp, Mugafi" />
   </picture>
 </div>
 
@@ -65,11 +54,11 @@
 
 <div align="center">
 <p><font size="4">
-I'm an <strong>Open Source Engineer</strong> and <strong>Full Stack Developer</strong> who works where correctness actually gets decided — specs, test suites and CI. Currently pursuing <strong>B.Tech in Computer Science (AI & ML)</strong>, and selected for <strong>Google Summer of Code 2026 with JSON Schema</strong>, where I write the format-assertion coverage that every validator implementation gets checked against.
+I'm an <strong>Open Source Engineer</strong> and <strong>Full Stack Developer</strong> who works where correctness actually gets decided: specs, test suites and CI. Currently pursuing <strong>B.Tech in Computer Science (AI & ML)</strong>, and selected for <strong>Google Summer of Code 2026 with JSON Schema</strong>, where I write the format-assertion coverage that every validator implementation gets checked against.
 </font></p>
 
 <p><font size="4">
-Across <strong>202 merged pull requests in 6+ upstream organisations</strong>, I contribute to <strong>Podman, Skopeo and Buildah</strong>, <strong>CNCF OpenCost</strong>, <strong>Kubernetes SIGs Headlamp</strong> and <strong>sourcemeta/core</strong>. I also serve as <strong>CTO @ Shivam-Info</strong> and <strong>Software Engineer @ Mugafi</strong>. My favourite kind of issue is a flaky test nobody trusts any more — I built <a href="https://github.com/vtushar06/ci-flake-triage"><strong>ci-flake-triage</strong></a> so that finding them stopped being guesswork.
+Across <strong>202 merged pull requests in 6+ upstream organisations</strong>, I contribute to <strong>Podman, Skopeo and Buildah</strong>, <strong>CNCF OpenCost</strong>, <strong>Kubernetes SIGs Headlamp</strong> and <strong>sourcemeta/core</strong>. I also serve as <strong>CTO @ Shivam-Info</strong> and <strong>Software Engineer @ Mugafi</strong>. My favourite kind of issue is a flaky test nobody trusts any more, so I built <a href="https://github.com/vtushar06/ci-flake-triage"><strong>ci-flake-triage</strong></a> so that finding them stopped being guesswork.
 </font></p>
 </div>
 
@@ -137,7 +126,7 @@ Each bar links to the search that produces it.</i></sub>
         <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/gsoc-sun.svg" width="24" align="center" alt="Google Summer of Code" />&nbsp;<strong>GSoC '26</strong>
       </td>
       <td align="left">
-        <strong>Format-assertion coverage</strong> for <code>uri</code>, <code>iri</code>, <code>uri-template</code> and <code>time</code> — the edge cases every validator gets wrong. Plus RFC conformance across the org.
+        <strong>Format-assertion coverage</strong> for <code>uri</code>, <code>iri</code>, <code>uri-template</code> and <code>time</code>: the edge cases every validator gets wrong. Plus RFC conformance across the org.
       </td>
       <td align="center">
         <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Amerged+org%3Ajson-schema-org"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/bar-jsonschema.svg" width="200" alt="78 merged" /></a>
@@ -145,9 +134,9 @@ Each bar links to the search that produces it.</i></sub>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/sourcemeta"><strong>sourcemeta</strong></a>
+        <a href="https://github.com/sourcemeta"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/sourcemeta-logo.png" width="58" alt="Sourcemeta" /></a>
         <br><br>
-        <sub>core · registry</sub>
+        <strong>sourcemeta</strong><br><sub>core · blaze · registry</sub>
       </td>
       <td align="left">
         C++ URI and RFC 3986 production coverage across the organisation.
@@ -163,7 +152,7 @@ Each bar links to the search that produces it.</i></sub>
         <strong>Learning Equality</strong><br><sub>Studio · Kolibri Design System</sub>
       </td>
       <td align="left">
-        Kolibri Studio and the Kolibri Design System — offline-first tooling for universal education.
+        Kolibri Studio and the Kolibri Design System: offline-first tooling for universal education.
       </td>
       <td align="center">
         <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Amerged+org%3Alearningequality"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/bar-learningequality.svg" width="200" alt="20 merged" /></a>
@@ -237,7 +226,7 @@ Each bar links to the search that produces it.</i></sub>
           🗂️ Classification: test / designed / infra / no-log<br>
           🔗 Candidate matching to open issues<br>
           🧾 Journal artifacts as ground truth<br>
-          🔒 Read-only access — cannot post<br>
+          🔒 Read-only access, cannot post<br>
           📦 Standard library only, no CI changes<br><br>
           <strong>🧠 Core insight</strong><br>
           • Fails once, passes on retry, <code>same commit</code><br>
@@ -246,7 +235,7 @@ Each bar links to the search that produces it.</i></sub>
         </p>
       </td>
       <td align="center" width="50%">
-        <img src="https://skillicons.dev/icons?i=ts,postgres,docker&theme=dark" />
+        <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/booking-logo.png" width="76" alt="Creator Pitch Scheduler" />
         <br><br>
         <h3>📅 <a href="https://github.com/vtushar06/creator-pitch-scheduler">Appointment Booking System</a></h3>
         <p><em>Concurrency correctness under load</em></p>
@@ -256,7 +245,7 @@ Each bar links to the search that produces it.</i></sub>
         <p align="left">
           ✨ <strong>Solving the "double booking" problem</strong><br><br>
           🔐 Two users click Book in the same millisecond<br>
-          ✅ Exactly one succeeds — state stays consistent<br>
+          ✅ Exactly one succeeds, state stays consistent<br>
           ⚙️ Node.js 18 + Express + TypeScript backend<br>
           🐘 PostgreSQL 15 with strict data integrity<br>
           ⚛️ React 18 + Vite + TanStack Query frontend<br>
@@ -264,7 +253,7 @@ Each bar links to the search that produces it.</i></sub>
           🐳 Docker & Docker Compose<br>
           👤 Admin and user roles<br><br>
           <strong>🧠 Why it matters</strong><br>
-          • Not a CRUD app — a <code>race condition</code> problem<br>
+          • Not a CRUD app, a <code>race condition</code> problem<br>
           • High concurrency, strict integrity
         </p>
       </td>
@@ -273,21 +262,27 @@ Each bar links to the search that produces it.</i></sub>
       <td align="center" width="50%">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/nextjs-logo-white.svg" />
-          <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/nextjs-logo.svg" width="76" alt="Next.js" />
+          <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/nextjs-logo.svg" width="72" alt="Next.js" />
         </picture>
         <br><br>
         <h3>🔀 <a href="https://next-flow-sigma-eight.vercel.app/">NextFlow</a></h3>
         <p><em>Workflow tooling on Next.js</em></p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
         <br><br>
         <p align="left">
-          ✨ <strong>A Next.js + TypeScript workflow application</strong><br><br>
-          ⚛️ App Router on Next.js<br>
-          🔒 Typed end to end<br>
+          ✨ <strong>A Next.js workflow application</strong><br><br>
+          ⚛️ Next.js with the App Router<br>
+          🔒 TypeScript end to end<br>
+          🎨 Component-driven UI<br>
+          ⚡ Server rendering out of the box<br>
           ☁️ Deployed and live on Vercel<br>
-          <!-- TODO: the repo is private, so add the real feature bullets here.
-               Keep the same emoji + <br> pattern as the cards around it. -->
+          🔗 Live demo linked in the title<br><br>
+          <strong>🔐 Private repository</strong><br>
+          • Source is not public, so the demo is the tour<br>
+          • Happy to walk through the code on request<br>
+          • <a href="mailto:tusharmyself06@gmail.com">Ask for a guided demo</a>
         </p>
       </td>
       <td align="center" width="50%">
@@ -427,12 +422,12 @@ Each bar links to the search that produces it.</i></sub>
     <tr>
       <td align="center" width="50%">
         <h3>📋 Specs & Conformance</h3>
-        <p>Format-assertion coverage for the JSON Schema Test Suite — <code>uri</code>, <code>iri</code>, <code>uri-template</code> and <code>time</code> — plus RFC 3986 production coverage in C++ for sourcemeta/core. The edge cases every validator gets wrong.</p>
+        <p>Format-assertion coverage for the JSON Schema Test Suite: <code>uri</code>, <code>iri</code>, <code>uri-template</code> and <code>time</code>, plus RFC 3986 production coverage in C++ for sourcemeta/core. The edge cases every validator gets wrong.</p>
         <img src="https://skillicons.dev/icons?i=cpp,python,md,vscode&theme=dark" />
       </td>
       <td align="center" width="50%">
         <h3>⚛️ Full Stack Development</h3>
-        <p>Shipping production web apps with React, Next.js and the MERN stack — booking systems, fintech simulators and AI companions, deployed on Vercel, Railway and Render rather than parked in a demo folder.</p>
+        <p>Shipping production web apps with React, Next.js and the MERN stack: booking systems, fintech simulators and AI companions, deployed on Vercel, Railway and Render rather than parked in a demo folder.</p>
         <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres&theme=dark" />
       </td>
     </tr>
@@ -509,7 +504,7 @@ Each bar links to the search that produces it.</i></sub>
         <br><br>
         <strong>Container Tooling Contributor</strong>
         <br>
-        <sub>Podman · Skopeo · Buildah — CI reliability & flake forensics</sub>
+        <sub>Podman · Skopeo · Buildah · CI reliability & flake forensics</sub>
       </td>
       <td align="center" width="33%">
         <picture>
@@ -569,8 +564,8 @@ Each bar links to the search that produces it.</i></sub>
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vtushar06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&custom_title=📊%20GitHub%20Analytics" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vtushar06&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=FBBC04&currStreakLabel=a78bfa&background=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vtushar06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&custom_title=%F0%9F%93%8A%20GitHub%20Analytics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=vtushar06&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=FBBC04&currStreakLabel=a78bfa&background=0d1117" />
 </div>
 
 <div align="center">
@@ -580,7 +575,7 @@ Each bar links to the search that produces it.</i></sub>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vtushar06&bg_color=0d1117&color=a78bfa&line=a78bfa&point=FBBC04&area=true&hide_border=true&custom_title=📈%20Contribution%20Journey" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vtushar06&bg_color=0d1117&color=a78bfa&line=a78bfa&point=FBBC04&area=true&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Journey" width="100%" />
 </div>
 
 <br>
@@ -641,7 +636,7 @@ Each bar links to the search that produces it.</i></sub>
 
   <br><br>
 
-  <strong>Maintainers: if you have a flaky test you have stopped trusting, or a spec corner nobody has written coverage for — that is the message I most want to get.</strong>
+  <strong>Maintainers: if you have a flaky test you have stopped trusting, or a spec corner nobody has written coverage for, that is the message I most want to get.</strong>
 
 </div>
 
