@@ -1,0 +1,60 @@
+{
+  "user": "vtushar06",
+  "raw": "https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets",
+  "orgs": [
+    {
+      "key": "jsonschema",
+      "name": "JSON Schema",
+      "query": "org:json-schema-org",
+      "link": "https://github.com/json-schema-org",
+      "logo": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"{RAW}/jsonschema-logo-white.svg\" /><img src=\"{RAW}/jsonschema-logo.svg\" width=\"130\" alt=\"JSON Schema\" /></picture>",
+      "sub": "<img src=\"{RAW}/gsoc-sun.svg\" width=\"24\" align=\"center\" alt=\"Google Summer of Code\" />&nbsp;<strong>GSoC '26</strong>",
+      "work": "<strong>Format-assertion coverage</strong> for <code>uri</code>, <code>iri</code>, <code>uri-template</code> and <code>time</code> — the edge cases every validator gets wrong. Plus RFC conformance across the org."
+    },
+    {
+      "key": "containers",
+      "name": "containers",
+      "query": "org:containers",
+      "link": "https://github.com/containers",
+      "logo": "<img src=\"{RAW}/podman-logo.png\" width=\"130\" alt=\"Podman\" />",
+      "sub": "<strong>containers</strong><br><sub>Podman · Skopeo · Buildah</sub>",
+      "work": "CI plumbing, system-test races, release tooling and GitHub Actions supply-chain hardening across <code>podman</code>, <code>skopeo</code>, <code>buildah</code>, <code>automation</code> and <code>container-libs</code>."
+    },
+    {
+      "key": "sourcemeta",
+      "name": "sourcemeta",
+      "query": "org:sourcemeta",
+      "link": "https://github.com/sourcemeta",
+      "logo": "<strong>sourcemeta</strong>",
+      "sub": "<sub>core · registry</sub>",
+      "work": "C++ URI and RFC 3986 production coverage across the organisation."
+    },
+    {
+      "key": "learningequality",
+      "name": "Learning Equality",
+      "query": "org:learningequality",
+      "link": "https://github.com/learningequality",
+      "logo": "<img src=\"{RAW}/learningequality-logo.png\" width=\"64\" alt=\"Learning Equality\" />",
+      "sub": "<strong>Learning Equality</strong><br><sub>Studio · Kolibri Design System</sub>",
+      "work": "Kolibri Studio and the Kolibri Design System — offline-first tooling for universal education."
+    },
+    {
+      "key": "opencost",
+      "name": "OpenCost",
+      "query": "org:opencost",
+      "link": "https://github.com/opencost",
+      "logo": "<img src=\"{RAW}/opencost-logo.svg\" width=\"84\" alt=\"OpenCost\" />",
+      "sub": "<sub>CNCF</sub>",
+      "work": "Integration tests and contributor onboarding automation."
+    },
+    {
+      "key": "headlamp",
+      "name": "Headlamp",
+      "query": "org:kubernetes-sigs",
+      "link": "https://github.com/kubernetes-sigs/headlamp",
+      "logo": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"{RAW}/headlamp-logo-light.svg\" /><img src=\"{RAW}/headlamp-logo.svg\" width=\"40\" alt=\"Headlamp\" /></picture>",
+      "sub": "<strong>Headlamp</strong><br><sub>Kubernetes SIGs</sub>",
+      "work": "UI and plugin fixes."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+name: Update contribution counts
+
+on:
+  schedule:
+    # 05:30 UTC daily — after most upstream merge activity has settled.
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/orgs.json
+      - scripts/update_contributions.py
+      - .github/workflows/update-contributions.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-contributions
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh organisation-wide merged counts
+        env:
+          # The default token is enough for the public search API.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_contributions.py
+
+      - name: Commit any changes
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Counts unchanged, nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/bar-*.svg
+          git commit -m "chore: refresh upstream merged-PR counts [skip ci]"
+          git push

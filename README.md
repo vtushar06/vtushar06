@@ -3,7 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=0d1117&background=FBBC04&center=true&vCenter=true&width=1000&height=64&lines=%F0%9F%9A%80+Google+Summer+of+Code+'26+%40+JSON+Schema;%F0%9F%90%B3+Podman+%7C+Skopeo+%7C+Buildah+Contributor;%E2%9A%A1+192+Merged+PRs+Across+10%2B+Upstreams;%F0%9F%94%A7+CI+Reliability+%26+Flake+Forensics+Engineer;%F0%9F%92%BC+CTO+%40+Shivam-Info;%F0%9F%A4%96+Software+Engineer+%40+Mugafi" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/rule-red.svg" width="72%" alt="" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FBBC04&center=true&vCenter=true&width=900&height=52&lines=%F0%9F%9A%80+Google+Summer+of+Code+'26+%40+JSON+Schema;%F0%9F%90%B3+Podman+%7C+Skopeo+%7C+Buildah+Contributor;%E2%9A%A1+202+Merged+PRs+Across+6%2B+Upstreams;%F0%9F%94%A7+CI+Reliability+%26+Flake+Forensics+Engineer;%F0%9F%92%BC+CTO+%40+Shivam-Info;%F0%9F%A4%96+Software+Engineer+%40+Mugafi" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/rule-red.svg" width="72%" alt="" />
 </div>
 
 <br>
@@ -61,7 +69,7 @@ I'm an <strong>Open Source Engineer</strong> and <strong>Full Stack Developer</s
 </font></p>
 
 <p><font size="4">
-Across <strong>192 merged pull requests in 10+ upstream organisations</strong>, I contribute to <strong>Podman, Skopeo and Buildah</strong>, <strong>CNCF OpenCost</strong>, <strong>Kubernetes SIGs Headlamp</strong> and <strong>sourcemeta/core</strong>. I also serve as <strong>CTO @ Shivam-Info</strong> and <strong>Software Engineer @ Mugafi</strong>. My favourite kind of issue is a flaky test nobody trusts any more — I built <a href="https://github.com/vtushar06/ci-flake-triage"><strong>ci-flake-triage</strong></a> so that finding them stopped being guesswork.
+Across <strong>202 merged pull requests in 6+ upstream organisations</strong>, I contribute to <strong>Podman, Skopeo and Buildah</strong>, <strong>CNCF OpenCost</strong>, <strong>Kubernetes SIGs Headlamp</strong> and <strong>sourcemeta/core</strong>. I also serve as <strong>CTO @ Shivam-Info</strong> and <strong>Software Engineer @ Mugafi</strong>. My favourite kind of issue is a flaky test nobody trusts any more — I built <a href="https://github.com/vtushar06/ci-flake-triage"><strong>ci-flake-triage</strong></a> so that finding them stopped being guesswork.
 </font></p>
 </div>
 
@@ -73,7 +81,7 @@ const tushar = {
   location:    "New Delhi, India 🇮🇳",
   education:   "B.Tech in Computer Science (AI & ML)",
   currentRole: "🎓 GSoC '26 @ JSON Schema  |  💼 CTO @ Shivam-Info  |  🤖 SWE @ Mugafi",
-  openSource:  "192 merged PRs · 10+ upstream orgs",
+  openSource:  "202 merged PRs · 6+ upstream orgs",
 
   upstream: {
     jsonSchema: ["JSON-Schema-Test-Suite", "website", "conference"],
@@ -90,9 +98,6 @@ const tushar = {
     ci_testing: ["GitHub Actions", "Cirrus CI", "BATS", "pytest", "flake triage"],
     specs:      ["JSON Schema", "RFC 3986 URI", "RFC 3987 IRI", "RFC 6570 URI Template"],
   },
-
-  openTo:      ["LFX Mentorship (Podman)", "Open Source", "Internships", "Collabs"],
-  funFact:     "A job that fails once and passes on retry is a flake by construction. 🔍",
 };
 ```
 
@@ -104,9 +109,17 @@ const tushar = {
 
 <div align="center">
 
-  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Amerged"><img src="https://img.shields.io/badge/192-Merged_PRs-2ea043?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr"><img src="https://img.shields.io/badge/285-Authored_PRs-6d28d9?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Aopen"><img src="https://img.shields.io/badge/75-In_Review-5b21b6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<sub><i>Counts are organisation-wide across every repository, refreshed daily from the GitHub search API by
+<a href="https://github.com/vtushar06/vtushar06/blob/main/.github/workflows/update-contributions.yml">a workflow in this repo</a>.
+Each bar links to the search that produces it.</i></sub>
+
+<br><br>
+
+<!-- contrib-badges:start -->
+  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Amerged"><img src="https://img.shields.io/badge/202-Merged_PRs-2ea043?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr"><img src="https://img.shields.io/badge/293-Authored_PRs-6d28d9?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Aopen"><img src="https://img.shields.io/badge/72-In_Review-5b21b6?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- contrib-badges:end -->
 
   <br><br>
 
@@ -116,68 +129,86 @@ const tushar = {
       <th width="48%">🔧 What I Work On</th>
       <th width="26%">✅ Merged</th>
     </tr>
+<!-- contrib-table:start -->
     <tr>
       <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/jsonschema-logo-white.svg" />
-          <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/jsonschema-logo.svg" width="130" alt="JSON Schema" />
-        </picture>
+        <a href="https://github.com/json-schema-org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/jsonschema-logo-white.svg" /><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/jsonschema-logo.svg" width="130" alt="JSON Schema" /></picture></a>
         <br><br>
-        <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/gsoc-sun.svg" width="24" align="center" alt="Google Summer of Code" />
-        &nbsp;<strong>GSoC '26</strong>
+        <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/gsoc-sun.svg" width="24" align="center" alt="Google Summer of Code" />&nbsp;<strong>GSoC '26</strong>
       </td>
       <td align="left">
-        <strong>Format-assertion coverage</strong> for <code>uri</code>, <code>iri</code>, <code>uri-template</code> and <code>time</code> — the edge cases every validator gets wrong. Plus RFC conformance work across the org.
+        <strong>Format-assertion coverage</strong> for <code>uri</code>, <code>iri</code>, <code>uri-template</code> and <code>time</code> — the edge cases every validator gets wrong. Plus RFC conformance across the org.
       </td>
-      <td align="center"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/bar-jsonschema.svg" width="200" alt="78 merged" /></td>
+      <td align="center">
+        <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Amerged+org%3Ajson-schema-org"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/bar-jsonschema.svg" width="200" alt="78 merged" /></a>
+      </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/podman-logo.png" width="130" alt="Podman" />
+        <a href="https://github.com/sourcemeta"><strong>sourcemeta</strong></a>
         <br><br>
-        <strong>containers</strong><br>
-        <sub>Podman · Skopeo · Buildah</sub>
+        <sub>core · registry</sub>
       </td>
       <td align="left">
-        CI plumbing, system-test races, release tooling and GitHub Actions supply-chain hardening across <code>podman</code>, <code>skopeo</code>, <code>buildah</code> and <code>automation</code>.
+        C++ URI and RFC 3986 production coverage across the organisation.
       </td>
-      <td align="center"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/bar-containers.svg" width="200" alt="14 merged" /></td>
+      <td align="center">
+        <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Amerged+org%3Asourcemeta"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/bar-sourcemeta.svg" width="200" alt="23 merged" /></a>
+      </td>
     </tr>
     <tr>
       <td align="center">
-        <strong>sourcemeta/core</strong>
+        <a href="https://github.com/learningequality"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/learningequality-logo.png" width="64" alt="Learning Equality" /></a>
+        <br><br>
+        <strong>Learning Equality</strong><br><sub>Studio · Kolibri Design System</sub>
       </td>
       <td align="left">
-        C++ URI and RFC 3986 production coverage.
+        Kolibri Studio and the Kolibri Design System — offline-first tooling for universal education.
       </td>
-      <td align="center"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/bar-sourcemeta.svg" width="200" alt="16 merged" /></td>
+      <td align="center">
+        <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Amerged+org%3Alearningequality"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/bar-learningequality.svg" width="200" alt="20 merged" /></a>
+      </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/opencost-logo.svg" width="84" alt="OpenCost" />
+        <a href="https://github.com/containers"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/podman-logo.png" width="130" alt="Podman" /></a>
+        <br><br>
+        <strong>containers</strong><br><sub>Podman · Skopeo · Buildah</sub>
+      </td>
+      <td align="left">
+        CI plumbing, system-test races, release tooling and GitHub Actions supply-chain hardening across <code>podman</code>, <code>skopeo</code>, <code>buildah</code>, <code>automation</code> and <code>container-libs</code>.
+      </td>
+      <td align="center">
+        <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Amerged+org%3Acontainers"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/bar-containers.svg" width="200" alt="16 merged" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/opencost"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/opencost-logo.svg" width="84" alt="OpenCost" /></a>
         <br><br>
         <sub>CNCF</sub>
       </td>
       <td align="left">
         Integration tests and contributor onboarding automation.
       </td>
-      <td align="center"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/bar-opencost.svg" width="200" alt="14 merged" /></td>
+      <td align="center">
+        <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Amerged+org%3Aopencost"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/bar-opencost.svg" width="200" alt="14 merged" /></a>
+      </td>
     </tr>
     <tr>
       <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/headlamp-logo-light.svg" />
-          <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/headlamp-logo.svg" width="40" alt="Headlamp" />
-        </picture>
+        <a href="https://github.com/kubernetes-sigs/headlamp"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/headlamp-logo-light.svg" /><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/headlamp-logo.svg" width="40" alt="Headlamp" /></picture></a>
         <br><br>
-        <strong>Headlamp</strong><br>
-        <sub>Kubernetes SIGs</sub>
+        <strong>Headlamp</strong><br><sub>Kubernetes SIGs</sub>
       </td>
       <td align="left">
         UI and plugin fixes.
       </td>
-      <td align="center"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/bar-headlamp.svg" width="200" alt="6 merged" /></td>
+      <td align="center">
+        <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Amerged+org%3Akubernetes-sigs"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/bar-headlamp.svg" width="200" alt="6 merged" /></a>
+      </td>
     </tr>
+    <!-- contrib-table:end -->
   </table>
 
 </div>
@@ -240,20 +271,23 @@ const tushar = {
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/vtushar06/Telesana-Appoinment/main/public/image.png" width="150" alt="Telesana" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/nextjs-logo-white.svg" />
+          <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/nextjs-logo.svg" width="76" alt="Next.js" />
+        </picture>
         <br><br>
-        <h3>🏥 <a href="https://telesana-appoinment-production.up.railway.app/">Telesana</a></h3>
-        <p><em>Healthcare appointment platform</em></p>
+        <h3>🔀 <a href="https://next-flow-sigma-eight.vercel.app/">NextFlow</a></h3>
+        <p><em>Workflow tooling on Next.js</em></p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
         <br><br>
         <p align="left">
-          ✨ <strong>Doctor appointment and records system</strong><br><br>
-          📅 Slot booking and availability windows<br>
-          👨‍⚕️ Doctor and patient dashboards<br>
-          🗃️ Relational records with SQL<br>
-          🔐 Authentication and session handling<br>
-          ☁️ Deployed and live on Railway
+          ✨ <strong>A Next.js + TypeScript workflow application</strong><br><br>
+          ⚛️ App Router on Next.js<br>
+          🔒 Typed end to end<br>
+          ☁️ Deployed and live on Vercel<br>
+          <!-- TODO: the repo is private, so add the real feature bullets here.
+               Keep the same emoji + <br> pattern as the cards around it. -->
         </p>
       </td>
       <td align="center" width="50%">
@@ -278,14 +312,14 @@ const tushar = {
       <td align="center" colspan="2">
         <h3>🔭 More Work</h3>
         <a href="https://astrogpt-tushar-vermas-projects-f01f3eda.vercel.app/"><img src="https://img.shields.io/badge/AstroGPT-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
-        <a href="https://next-flow-sigma-eight.vercel.app/"><img src="https://img.shields.io/badge/NextFlow-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+        <a href="https://telesana-appoinment-production.up.railway.app/"><img src="https://img.shields.io/badge/Telesana-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" /></a>
         <a href="https://sync-lite.onrender.com"><img src="https://img.shields.io/badge/Sync--Lite-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
         <a href="https://poweron-events.vercel.app"><img src="https://img.shields.io/badge/PowerOn_Events-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
         <a href="https://github.com/vtushar06/CardioSense-AI"><img src="https://img.shields.io/badge/CardioSense_AI-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
         <a href="https://github.com/vtushar06/opencost-welcome-bot"><img src="https://img.shields.io/badge/OpenCost_Welcome_Bot-231F20?style=for-the-badge&logo=cncf&logoColor=white" /></a>
         <br><br>
         <p>
-          An AI astrology companion, a workflow engine, a lightweight sync service, an events platform, a cardiac ML model and a CNCF onboarding bot.
+          An AI astrology companion, a healthcare appointment platform, a lightweight sync service, an events platform, a cardiac ML model and a CNCF onboarding bot.
         </p>
       </td>
     </tr>
@@ -381,7 +415,7 @@ const tushar = {
     <tr>
       <td align="center" width="50%">
         <h3>🌍 Upstream Open Source</h3>
-        <p>192 merged pull requests across JSON Schema, Podman, Skopeo, Buildah, CNCF OpenCost and Kubernetes SIGs Headlamp. One concern per PR, a failing test before the fix, and the spec paragraph quoted in the description.</p>
+        <p>202 merged pull requests across JSON Schema, Podman, Skopeo, Buildah, CNCF OpenCost and Kubernetes SIGs Headlamp. One concern per PR, a failing test before the fix, and the spec paragraph quoted in the description.</p>
         <img src="https://skillicons.dev/icons?i=github,git,linux,docker,kubernetes&theme=dark" />
       </td>
       <td align="center" width="50%">
@@ -415,8 +449,9 @@ const tushar = {
   <table>
     <tr>
       <td align="center" width="33%">
-        <h3>💼 Chief Technology Officer</h3>
-        <em>Shivam-Info</em><br>
+        <a href="https://github.com/Shivam-Info"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/shivam-info-logo.png" width="62" alt="Shivam Info" /></a>
+        <h3>Chief Technology Officer</h3>
+        <em>Shivam Info</em><br>
         <strong>Present</strong>
         <br><br>
         • Owns the technical direction<br>
@@ -426,7 +461,8 @@ const tushar = {
         • Product to production
       </td>
       <td align="center" width="33%">
-        <h3>🤖 Software Engineer</h3>
+        <a href="https://github.com/Mugafi"><img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/mugafi-logo.jpg" width="62" alt="Mugafi" /></a>
+        <h3>Software Engineer</h3>
         <em>Mugafi</em><br>
         <strong>Present</strong>
         <br><br>
@@ -481,9 +517,9 @@ const tushar = {
           <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/jsonschema-logo.svg" width="140" alt="JSON Schema" />
         </picture>
         <br><br>
-        <strong>192 Merged Pull Requests</strong>
+        <strong>202 Merged Pull Requests</strong>
         <br>
-        <sub>Across 10+ upstream organisations</sub>
+        <sub>Across 6+ upstream organisations</sub>
       </td>
     </tr>
   </table>

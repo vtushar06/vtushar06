@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="6" viewBox="0 0 1000 6" fill="none" role="presentation">
+  <defs>
+    <linearGradient id="rr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#E5484D" stop-opacity="0"/>
+      <stop offset="12%"  stop-color="#E5484D" stop-opacity=".9"/>
+      <stop offset="50%"  stop-color="#F5343A" stop-opacity="1"/>
+      <stop offset="88%"  stop-color="#E5484D" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#E5484D" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rs" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#FF8A8E" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#FFC9CB" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#FF8A8E" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      @keyframes slide { 0% { transform: translateX(-220px) } 100% { transform: translateX(1000px) } }
+      .glint { animation: slide 4.2s cubic-bezier(.45,0,.55,1) infinite; }
+      @media (prefers-reduced-motion: reduce) { .glint { animation: none; opacity: 0 } }
+    </style>
+  </defs>
+  <rect y="2" width="1000" height="2.4" rx="1.2" fill="url(#rr)"/>
+  <rect class="glint" y="2" width="220" height="2.4" rx="1.2" fill="url(#rs)"/>
+</svg>

@@ -15,7 +15,7 @@
       @media (prefers-reduced-motion: reduce) { .rev, .num { animation: none; } }
     </style>
   </defs>
-  <rect x="0" y="4" width="150.0" height="14" rx="7" fill="#8b949e" fill-opacity=".20"/>
+  <rect x="0" y="4" width="150" height="14" rx="7" fill="#8b949e" fill-opacity=".20"/>
   <g clip-path="url(#cjsonschema)">
     <rect x="0" y="4" width="150.0" height="14" rx="7" fill="url(#gjsonschema)"/>
   </g>
