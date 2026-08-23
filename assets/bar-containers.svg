@@ -1,24 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="210" height="22" viewBox="0 0 210 22" fill="none" role="img" aria-label="16 merged pull requests">
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="22" viewBox="0 0 210 22" fill="none" role="img" aria-label="0 merged pull requests">
   <defs>
     <linearGradient id="gcontainers" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#2ea043"/>
       <stop offset="100%" stop-color="#3fb950"/>
     </linearGradient>
     <clipPath id="ccontainers">
-      <rect class="rev" x="0" y="4" width="30.8" height="14" rx="7"/>
+      <rect class="rev" x="0" y="4" width="10.0" height="14" rx="7"/>
     </clipPath>
     <style>
-      @keyframes rcontainers { from { transform: translateX(-30.8px) } to { transform: translateX(0) } }
+      @keyframes rcontainers { from { transform: translateX(-10.0px) } to { transform: translateX(0) } }
       @keyframes fcontainers { from { opacity: 0 } to { opacity: 1 } }
-      .rev { animation: rcontainers 1.4s cubic-bezier(.16,1,.3,1) both; animation-delay: 0.46s; }
-      .num { animation: fcontainers .5s ease-out both; animation-delay: 1.26s; }
+      .rev { animation: rcontainers 1.4s cubic-bezier(.16,1,.3,1) both; animation-delay: 0.7s; }
+      .num { animation: fcontainers .5s ease-out both; animation-delay: 1.5s; }
       @media (prefers-reduced-motion: reduce) { .rev, .num { animation: none; } }
     </style>
   </defs>
   <rect x="0" y="4" width="150" height="14" rx="7" fill="#8b949e" fill-opacity=".20"/>
   <g clip-path="url(#ccontainers)">
-    <rect x="0" y="4" width="30.8" height="14" rx="7" fill="url(#gcontainers)"/>
+    <rect x="0" y="4" width="10.0" height="14" rx="7" fill="url(#gcontainers)"/>
   </g>
   <text class="num" x="160" y="16" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
-        font-size="14" font-weight="700" fill="#2ea043">16</text>
+        font-size="14" font-weight="700" fill="#2ea043">0</text>
 </svg>
