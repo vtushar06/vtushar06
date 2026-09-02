@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FBBC04&center=true&vCenter=true&width=900&height=52&lines=%F0%9F%9A%80+Google+Summer+of+Code+'26+%40+JSON+Schema;%F0%9F%90%B3+Podman+%7C+Skopeo+%7C+Buildah+Contributor;%E2%9A%A1+235+Merged+PRs+Across+6%2B+Upstreams;%F0%9F%94%A7+CI+Reliability+%26+Flake+Forensics+Engineer;%F0%9F%92%BC+CTO+%40+Shivam-Info;%F0%9F%A4%96+Software+Engineer+%40+Mugafi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FBBC04&center=true&vCenter=true&width=900&height=52&lines=%F0%9F%9A%80+Google+Summer+of+Code+'26+%40+JSON+Schema;%F0%9F%90%B3+Podman+%7C+Skopeo+%7C+Buildah+Contributor;%E2%9A%A1+237+Merged+PRs+Across+6%2B+Upstreams;%F0%9F%94%A7+CI+Reliability+%26+Flake+Forensics+Engineer;%F0%9F%92%BC+CTO+%40+Shivam-Info;%F0%9F%A4%96+Software+Engineer+%40+Mugafi" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -58,7 +58,7 @@ I'm an <strong>Open Source Engineer</strong> and <strong>Full Stack Developer</s
 </font></p>
 
 <p><font size="4">
-Across <strong>235 merged pull requests in 6+ upstream organisations</strong>, I contribute to <strong>Podman, Skopeo and Buildah</strong>, <strong>CNCF OpenCost</strong>, <strong>Kubernetes SIGs Headlamp</strong> and <strong>sourcemeta/core</strong>. I also serve as <strong>CTO @ Shivam-Info</strong> and <strong>Software Engineer @ Mugafi</strong>. My favourite kind of issue is a flaky test nobody trusts any more, so I built <a href="https://github.com/vtushar06/ci-flake-triage"><strong>ci-flake-triage</strong></a> so that finding them stopped being guesswork.
+Across <strong>237 merged pull requests in 6+ upstream organisations</strong>, I contribute to <strong>Podman, Skopeo and Buildah</strong>, <strong>CNCF OpenCost</strong>, <strong>Kubernetes SIGs Headlamp</strong> and <strong>sourcemeta/core</strong>. I also serve as <strong>CTO @ Shivam-Info</strong> and <strong>Software Engineer @ Mugafi</strong>. My favourite kind of issue is a flaky test nobody trusts any more, so I built <a href="https://github.com/vtushar06/ci-flake-triage"><strong>ci-flake-triage</strong></a> so that finding them stopped being guesswork.
 </font></p>
 </div>
 
@@ -70,7 +70,7 @@ const tushar = {
   location:    "New Delhi, India 🇮🇳",
   education:   "B.Tech in Computer Science (AI & ML)",
   currentRole: "🎓 GSoC '26 @ JSON Schema  |  💼 CTO @ Shivam-Info  |  🤖 SWE @ Mugafi",
-  openSource:  "235 merged PRs · 6+ upstream orgs",
+  openSource:  "237 merged PRs · 6+ upstream orgs",
 
   upstream: {
     jsonSchema: ["JSON-Schema-Test-Suite", "website", "conference"],
@@ -105,9 +105,9 @@ Each bar links to the search that produces it.</i></sub>
 <br><br>
 
 <!-- contrib-badges:start -->
-  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Amerged"><img src="https://img.shields.io/badge/235-Merged_PRs-2ea043?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Amerged"><img src="https://img.shields.io/badge/237-Merged_PRs-2ea043?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr"><img src="https://img.shields.io/badge/294-Authored_PRs-6d28d9?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Aopen"><img src="https://img.shields.io/badge/39-In_Review-5b21b6?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Aopen"><img src="https://img.shields.io/badge/36-In_Review-5b21b6?style=for-the-badge&logo=github&logoColor=white" /></a>
   <!-- contrib-badges:end -->
 
   <br><br>
@@ -410,7 +410,7 @@ Each bar links to the search that produces it.</i></sub>
     <tr>
       <td align="center" width="50%">
         <h3>🌍 Upstream Open Source</h3>
-        <p>235 merged pull requests across JSON Schema, Podman, Skopeo, Buildah, CNCF OpenCost and Kubernetes SIGs Headlamp. One concern per PR, a failing test before the fix, and the spec paragraph quoted in the description.</p>
+        <p>237 merged pull requests across JSON Schema, Podman, Skopeo, Buildah, CNCF OpenCost and Kubernetes SIGs Headlamp. One concern per PR, a failing test before the fix, and the spec paragraph quoted in the description.</p>
         <img src="https://skillicons.dev/icons?i=github,git,linux,docker,kubernetes&theme=dark" />
       </td>
       <td align="center" width="50%">
@@ -512,7 +512,7 @@ Each bar links to the search that produces it.</i></sub>
           <img src="https://raw.githubusercontent.com/vtushar06/vtushar06/main/assets/jsonschema-logo.svg" width="140" alt="JSON Schema" />
         </picture>
         <br><br>
-        <strong>235 Merged Pull Requests</strong>
+        <strong>237 Merged Pull Requests</strong>
         <br>
         <sub>Across 6+ upstream organisations</sub>
       </td>
