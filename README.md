@@ -106,8 +106,8 @@ Each bar links to the search that produces it.</i></sub>
 
 <!-- contrib-badges:start -->
   <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Amerged"><img src="https://img.shields.io/badge/252-Merged_PRs-2ea043?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr"><img src="https://img.shields.io/badge/301-Authored_PRs-6d28d9?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Aopen"><img src="https://img.shields.io/badge/27-In_Review-5b21b6?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr"><img src="https://img.shields.io/badge/305-Authored_PRs-6d28d9?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/search?q=author%3Avtushar06+is%3Apr+is%3Aopen"><img src="https://img.shields.io/badge/30-In_Review-5b21b6?style=for-the-badge&logo=github&logoColor=white" /></a>
   <!-- contrib-badges:end -->
 
   <br><br>
